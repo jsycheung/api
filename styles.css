@@ -1,0 +1,18 @@
+body {
+  font-family: "Star Wars", sans-serif;
+  text-align: center;
+  background-image: url("https://lumiere-a.akamaihd.net/v1/images/alderaan-main_f5b676cf.jpeg?region=0%2C40%2C1280%2C640");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+button {
+  margin-bottom: 20px;
+}
+
+.response-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
